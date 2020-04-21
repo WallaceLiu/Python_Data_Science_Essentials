@@ -1,0 +1,3 @@
+The appendix of this book doesn't have any code files.
+
+Python and all the data science tools mentioned in the book, from IPython to Scikit-learn, are free of charge and can be  freely downloaded from the Internet. To run the code that accompanies the book, you need a computer that uses Windows, Linux, or Mac OS operating systems. The book will introduce you step-by-step to the process of installing the Python interpreter and all the tools and data that you need to run the examples.
